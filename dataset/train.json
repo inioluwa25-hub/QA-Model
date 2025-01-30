@@ -1,0 +1,277 @@
+[
+    {
+      "context": "Mistborn is a series of epic fantasy novels written by American author Brandon Sanderson.",
+      "qas": [
+        {
+          "id": "00001",
+          "is_impossible": false,
+          "question": "Who is the author of the Mistborn series?",
+          "answers": [
+            {
+              "text": "Brandon Sanderson",
+              "answer_start": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The first series, published between 2006 and 2008, consists of The Final Empire, The Well of Ascension, and The Hero of Ages.",
+      "qas": [
+        {
+          "id": "00002",
+          "is_impossible": false,
+          "question": "When was the series published?",
+          "answers": [
+            {
+              "text": "between 2006 and 2008",
+              "answer_start": 28
+            }
+          ]
+        },
+        {
+          "id": "00003",
+          "is_impossible": false,
+          "question": "What are the three books in the series?",
+          "answers": [
+            {
+              "text": "The Final Empire, The Well of Ascension, and The Hero of Ages",
+              "answer_start": 63
+            }
+          ]
+        },
+        {
+          "id": "00004",
+          "is_impossible": true,
+          "question": "Who is the main character in the series?",
+          "answers": []
+        }
+      ]
+    },
+    {
+      "context": "Allomancy is one of three magic systems in the Mistborn series, allowing users to gain supernatural abilities by consuming and 'burning' specific metals.",
+      "qas": [
+        {
+          "id": "00005",
+          "is_impossible": false,
+          "question": "How many magic systems are there in Mistborn?",
+          "answers": [
+            {
+              "text": "three",
+              "answer_start": 23
+            }
+          ]
+        },
+        {
+          "id": "00006",
+          "is_impossible": false,
+          "question": "How do Allomancers get their powers?",
+          "answers": [
+            {
+              "text": "consuming and 'burning' specific metals",
+              "answer_start": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Lord Ruler, also known as the Sliver of Infinity, had ruled the Final Empire for a thousand years before the events of the first book.",
+      "qas": [
+        {
+          "id": "00007",
+          "is_impossible": false,
+          "question": "What is another name for the Lord Ruler?",
+          "answers": [
+            {
+              "text": "Sliver of Infinity",
+              "answer_start": 35
+            }
+          ]
+        },
+        {
+          "id": "00008",
+          "is_impossible": false,
+          "question": "How long did the Lord Ruler reign?",
+          "answers": [
+            {
+              "text": "a thousand years",
+              "answer_start": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The skaa are the peasant class, oppressed and enslaved by the noble class for generations. They make up the majority of the population in the Final Empire.",
+      "qas": [
+        {
+          "id": "00009",
+          "is_impossible": false,
+          "question": "What is the social status of the skaa?",
+          "answers": [
+            {
+              "text": "peasant class, oppressed and enslaved",
+              "answer_start": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The noble houses maintain their Allomantic bloodlines through careful breeding programs, keeping their powers concentrated within their families.",
+      "qas": [
+        {
+          "id": "00010",
+          "is_impossible": false,
+          "question": "How do noble houses maintain their Allomantic powers?",
+          "answers": [
+            {
+              "text": "careful breeding programs",
+              "answer_start": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The city of Luthadel is the capital of the Final Empire, known for its mighty steel walls and the Lord Ruler's palace, Kredik Shaw.",
+      "qas": [
+        {
+          "id": "00011",
+          "is_impossible": false,
+          "question": "What is the capital city of the Final Empire?",
+          "answers": [
+            {
+              "text": "Luthadel",
+              "answer_start": 12
+            }
+          ]
+        },
+        {
+          "id": "00012",
+          "is_impossible": false,
+          "question": "What is the name of the Lord Ruler's palace?",
+          "answers": [
+            {
+              "text": "Kredik Shaw",
+              "answer_start": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Inquisitors are powerful servants of the Lord Ruler who have metal spikes driven through their eyes and bodies, granting them incredible Allomantic and Feruchemical abilities.",
+      "qas": [
+        {
+          "id": "00013",
+          "is_impossible": false,
+          "question": "What distinguishes Inquisitors physically?",
+          "answers": [
+            {
+              "text": "metal spikes driven through their eyes and bodies",
+              "answer_start": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Obsidian axes are the preferred weapons of the koloss, growing in size as the koloss themselves grow larger. The smallest koloss carry axes about six feet long.",
+      "qas": [
+        {
+          "id": "00014",
+          "is_impossible": false,
+          "question": "What weapons do koloss use?",
+          "answers": [
+            {
+              "text": "Obsidian axes",
+              "answer_start": 0
+            }
+          ]
+        },
+        {
+          "id": "00015",
+          "is_impossible": false,
+          "question": "How long are the smallest koloss axes?",
+          "answers": [
+            {
+              "text": "six feet",
+              "answer_start": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The kandra are shapeshifting beings created by the Lord Ruler who can consume and perfectly imitate any dead creature by absorbing their bones.",
+      "qas": [
+        {
+          "id": "00016",
+          "is_impossible": false,
+          "question": "What ability do kandra possess?",
+          "answers": [
+            {
+              "text": "consume and perfectly imitate any dead creature",
+              "answer_start": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Atium is the most valuable metal in the Final Empire, granting users the ability to see slightly into the future, but it is extremely rare and carefully controlled by the Lord Ruler.",
+      "qas": [
+        {
+          "id": "00017",
+          "is_impossible": false,
+          "question": "What power does atium grant?",
+          "answers": [
+            {
+              "text": "see slightly into the future",
+              "answer_start": 82
+            }
+          ]
+        },
+        {
+          "id": "00018",
+          "is_impossible": false,
+          "question": "What is the most valuable metal in the Final Empire?",
+          "answers": [
+            {
+              "text": "Atium",
+              "answer_start": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The mists appear every night, covering the land and are feared by most people. However, Allomancers can use the mists to hide their movements and enhance their powers.",
+      "qas": [
+        {
+          "id": "00019",
+          "is_impossible": false,
+          "question": "When do the mists appear?",
+          "answers": [
+            {
+              "text": "every night",
+              "answer_start": 22
+            }
+          ]
+        },
+        {
+          "id": "00020",
+          "is_impossible": false,
+          "question": "How do Allomancers use the mists?",
+          "answers": [
+            {
+              "text": "hide their movements and enhance their powers",
+              "answer_start": 108
+            }
+          ]
+        }
+      ]
+    }
+  ]

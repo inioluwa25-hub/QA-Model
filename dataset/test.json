@@ -1,0 +1,146 @@
+[
+    {
+      "context": "The series primarily takes place in a region called the Final Empire on a world called Scadrial, where the sun and sky are red, vegetation is brown, and the ground is constantly being covered under black volcanic ashfalls.",
+      "qas": [
+        {
+          "id": "00001",
+          "is_impossible": false,
+          "question": "Where does the series take place?",
+          "answers": [
+            {
+              "text": "region called the Final Empire",
+              "answer_start": 38
+            },
+            {
+              "text": "world called Scadrial",
+              "answer_start": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "\"Mistings\" have only one of the many Allomantic powers, while \"Mistborns\" have all the powers.",
+      "qas": [
+        {
+          "id": "00002",
+          "is_impossible": false,
+          "question": "How many powers does a Misting possess?",
+          "answers": [
+            {
+              "text": "one",
+              "answer_start": 21
+            }
+          ]
+        },
+        {
+          "id": "00003",
+          "is_impossible": true,
+          "question": "What are Allomantic powers?",
+          "answers": []
+        }
+      ]
+    },
+    {
+      "context": "Kelsier's crew consisted of talented Mistings: Breeze could Soothe emotions, Ham could enhance his physical abilities with pewter, and Clubs could hide Allomantic pulses from detection.",
+      "qas": [
+        {
+          "id": "00004",
+          "is_impossible": false,
+          "question": "What was Breeze's Allomantic ability?",
+          "answers": [
+            {
+              "text": "Soothe emotions",
+              "answer_start": 64
+            }
+          ]
+        },
+        {
+          "id": "00005",
+          "is_impossible": false,
+          "question": "What could Ham do with pewter?",
+          "answers": [
+            {
+              "text": "enhance his physical abilities",
+              "answer_start": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Steel Ministry served as both the government and religious authority in the Final Empire, with its Steel Inquisitors having steel spikes driven through their eyes and possessing powerful Allomantic abilities.",
+      "qas": [
+        {
+          "id": "00006",
+          "is_impossible": false,
+          "question": "What was the dual role of the Steel Ministry?",
+          "answers": [
+            {
+              "text": "government and religious authority",
+              "answer_start": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Feruchemy allows Feruchemists to store attributes like memory, strength, or speed in metalminds, which are metal objects worn on the body. The stored attributes can be tapped later for enhanced abilities.",
+      "qas": [
+        {
+          "id": "00007",
+          "is_impossible": false,
+          "question": "What can Feruchemists store attributes in?",
+          "answers": [
+            {
+              "text": "metalminds",
+              "answer_start": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The koloss are massive, blue-skinned creatures created by the Lord Ruler using Hemalurgy. They grow continuously throughout their lives, becoming larger and more aggressive as they age.",
+      "qas": [
+        {
+          "id": "00008",
+          "is_impossible": false,
+          "question": "Who created the koloss?",
+          "answers": [
+            {
+              "text": "Lord Ruler",
+              "answer_start": 61
+            }
+          ]
+        },
+        {
+          "id": "00009",
+          "is_impossible": false,
+          "question": "What happens to koloss as they age?",
+          "answers": [
+            {
+              "text": "become larger and more aggressive",
+              "answer_start": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Lord Ruler kept caches of food, water, and supplies hidden in storage caverns throughout the Final Empire, preparing for some unknown catastrophe he called the Deepness.",
+      "qas": [
+        {
+          "id": "00010",
+          "is_impossible": false,
+          "question": "What did the Lord Ruler call the catastrophe he was preparing for?",
+          "answers": [
+            {
+              "text": "the Deepness",
+              "answer_start": 138
+            }
+          ]
+        }
+      ]
+    }
+  ]

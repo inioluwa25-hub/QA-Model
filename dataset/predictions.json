@@ -1,0 +1,56 @@
+[
+    {
+      "context": "Vin is a Mistborn of great power and skill.",
+      "qas": [
+        {
+          "question": "What is Vin's speciality?",
+          "id": "0"
+        }
+      ]
+    },
+    {
+      "context": "Kelsier, known as the Survivor of Hathsin, led the skaa rebellion against the Lord Ruler's thousand-year reign.",
+      "qas": [
+        {
+          "question": "What was Kelsier's role in the rebellion?",
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "context": "Allomancers can gain supernatural abilities by ingesting and burning different pure metals. Steel pushes on nearby sources of metal, while iron pulls on them.",
+      "qas": [
+        {
+          "question": "How do Allomancers use their powers?",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "context": "The Lord Ruler transformed the world, creating the ashmounts that constantly spewed ash into the sky and moving the planet closer to its red sun.",
+      "qas": [
+        {
+          "question": "What changes did the Lord Ruler make to the world?",
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "context": "Sazed is a Keeper of Terris, who can store knowledge, physical attributes, and memories in metalminds worn on their bodies.",
+      "qas": [
+        {
+          "question": "What abilities do Keepers possess?",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "context": "The mists come every night, covering the land in a thick blanket of white fog that most people fear, but Mistborn can use it to their advantage while moving through the night.",
+      "qas": [
+        {
+          "question": "How do the mists affect Mistborn?",
+          "id": "5"
+        }
+      ]
+    }
+  ]
